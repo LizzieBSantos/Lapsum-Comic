@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pagina{
+    width: 100%;
+}
+
+.parte1{
+    display: block;
+}
+
+.logo img{
+    display: block;
+    margin-left: 100px;
+    text-align: center;
+}
+
+.acesse{
+    display: flex;
+}
+
+.grey1{
+    background-color: darkgrey;
+    width: 230px;
+    height: 450px;
+    margin: 40px;
+    cursor: pointer;
+}
+
+.grey2{
+    background-color: darkgrey;
+    width: 230px;
+    height: 450px;
+    margin: 40px;
+    cursor: wait;
+}
+
+.grey3{
+    background-color: darkgrey;
+    width: 230px;
+    height: 450px;
+    margin: 40px;
+    cursor: wait;
+}
+
+.grey4{
+    background-color: darkgrey;
+    width: 230px;
+    height: 450px;
+    margin: 40px;
+    cursor: not-allowed;
+}
+
+.grey5{
+    background-color: darkgrey;
+    width: 230px;
+    height: 450px;
+    margin: 40px;
+    cursor: not-allowed;
+}
+
+.embreve{
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.comingsoon{
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.parte2{
+    display: block;
+}
+
+.container{
+    background-color: #d4b4e8;
+    width: 100%;
+}
+
+.quemsomos{
+    display: block;
+    padding: 30px;
+}
+
+.joab{
+    margin: 30px;
+    display: flex;
+}
+
+.pjoab img{
+    border-radius: 150px;
+}
+
+.infojoab{
+    margin: 30px;
+    padding: 7px;
+    color: white;
+}
+
+.infojoab h2{
+    padding-bottom: 10px;
+    font-family: "Teko", sans-serif;
+}
+
+.infojoab p{
+    padding-bottom: 3px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.insta1{
+    padding-top: 5px;
+}
+
+.luiz{
+    margin: 30px;
+    display: flex;
+}
+
+.pluiz img{
+    border-radius: 150px;
+}
+
+.infoluiz{
+    margin: 30px;
+    padding: 7px;
+    color: white;
+}
+
+.infoluiz h2{
+    padding-bottom: 10px;
+    font-family: "Teko", sans-serif;
+}
+
+.infoluiz p{
+    padding-bottom: 3px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.insta2{
+    padding-top: 5px;
+}
+
+.lizzie{
+    margin: 30px;
+    display: flex;
+}
+
+.perfil img{
+    border-radius: 150px;
+}
+
+.infoliz{
+    margin: 30px;
+    padding: 7px;
+    color: white;
+}
+
+.infoliz h2{
+    padding-bottom: 10px;
+    font-family: "Teko", sans-serif;
+}
+
+.infoliz p{
+    padding-bottom: 3px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.insta3{
+    padding-top: 5px;
+}
+
+.footer{
+    background-color: #984ce5;
+}
+
+.copy{
+    color: white;
+    padding: 40px
+}
+
+.copy h1{
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.copy p{
+    font-family: "Work Sans", sans-serif;
+}
+
+
+.input{
+    margin-top: 60px;
+}
+
+.input h3{
+    
+    font-family: "Teko", sans-serif;
+}
+
+.rodape input {
+  width: 50px;
+  height: 20px;
+  background-color: #f2f2f2;
+  padding: 3px;
+  border: 1px solid #ccc;
+  color: #333;
+}
+
+.rodape input[type=submit] {
+  border-radius: 5px;
+  border: 1px solid none;
+  background-color: #d4b4e8;
+  color: white;
+  height: 30px;
+  width: 46px;
+}
+
+/*
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+}*/

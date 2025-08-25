@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pagina{
+    margin: 10px;
+}
+
+.imagem{
+    margin-top: 40px;
+    display: flex;
+}
+
+.fotos{
+    display: flex;
+}
+
+.back h3{
+    color: #b4b4b4;
+    font-family: "Oswald", sans-serif;
+}
+
+.palavras h1{
+    font-family: "Sora", sans-serif;
+}
+
+.palavras h4{
+    color: #b4b4b4;
+    font-family: "Work Sans", sans-serif;
+}
+
+.grey1{
+    background: grey;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+
+.grey2{
+    background: grey;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+
+.grey3{
+    background: grey;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+
+.grey4{
+    background: grey;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+
+.descricao p{
+    font-family: "Work Sans", sans-serif;
+}
+
+button{
+    margin: 30px;
+    color: #fff;
+    padding: 8px 22px;
+    border-radius: 6px;
+    background: #7d2ae8;
+    transition: all 0.2s ease;
+}
+
+button:active{
+    transform: scale(0.96);
+}
+
+.back h3{
+    margin: 6px;
+}
+
+.palavras{
+    margin: 20px;
+}
+
+.descricao{
+    margin: 20px;
+}
+
+.descricao h3{
+    font-family: "Sora", sans-serif;
+}
+
+.footer{
+    background-color: #984ce5;
+}
+
+.copy{
+    color: white;
+    padding: 40px
+}
+
+.copy h1{
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.copy p{
+    font-family: "Work Sans", sans-serif;
+}
+
+
+.input{
+    margin-top: 60px;
+}
+
+.input h3{
+    
+    font-family: "Teko", sans-serif;
+}
+
+.rodape input {
+  width: 50px;
+  height: 20px;
+  background-color: #f2f2f2;
+  padding: 3px;
+  border: 1px solid #ccc;
+  color: #333;
+}
+
+.rodape input[type=submit] {
+  border-radius: 5px;
+  border: 1px solid none;
+  background-color: #d4b4e8;
+  color: white;
+  height: 30px;
+  width: 46px;
+}
